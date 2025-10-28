@@ -1,12 +1,13 @@
+<h3>Kausthub K Murthy  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kausthubmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="kausthubmurthy" />
+</h3>
 
-### **👾 Kausthub K Murthy**
 **`Community Developer at Google Developer Group, Bengaluru`**
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kausthub-murthy)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kausthub.murthy@gmail.com)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kausthubmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="kausthubmurthy" />
-</p>
+
 
 ---
 
