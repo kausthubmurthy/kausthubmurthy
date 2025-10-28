@@ -21,7 +21,7 @@
 
 #### 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,opencv,java,spring,bash,linux,html,css,javascript,php,nodejs,express,react,postman,git,github,docker,kubernetes,mysql,postgresql,mongodb,aws,gcp,figma,raspberrypi,arduino&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,opencv,java,spring,bash,linux,html,css,javascript,php,nodejs,express,react,postman,git,github,docker,kubernetes,mysql,postgresql,mongodb,aws,gcp,figma,raspberrypi,arduino&perline=10)]()
 
 
 
