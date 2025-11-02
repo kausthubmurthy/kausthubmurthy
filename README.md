@@ -12,12 +12,17 @@
 ---
 
 #### 🚀 About Me
-```
-- 🎓 I’m currently pursuing a Bachelor’s in Computer Science Engineering at Presidency University, Bangalore.
-- 💻 I’m a Community Developer at the Google Developer Group (GDG) Bangalore.
-- 🦾 I’m a Student Member at the Indian Institute of Technology Madras Research Park (IITMRP).
-- 📄  Learn more about my experiences: https://tinyurl.com/kausthubmurthy
-```
+
+<span style="font-size: 0.85em;">
+
+- 🎓 I’m currently pursuing a **Bachelor’s in Computer Science Engineering** at **Presidency University, Bangalore**.  
+- 💻 I’m a **Community Developer** at **Google Developer Group (GDG) Bangalore**.  
+- 🦾 I’m a **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.  
+- 📄 Learn more about my experiences: [**Link**](https://tinyurl.com/kausthubmurthy)
+
+</span>
+
+
 
 ---
 
