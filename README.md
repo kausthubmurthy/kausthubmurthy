@@ -4,8 +4,7 @@
 
 **`Community Developer at Google Developer Group, Bengaluru`**
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kausthub-murthy)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kausthub.murthy@gmail.com)
+
 
 
 
