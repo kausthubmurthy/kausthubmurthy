@@ -38,9 +38,5 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kausthubmurthy&show_icons=true&theme=github_dark" alt="Kausthub's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kausthubmurthy&theme=github_dark" alt="Kausthub's GitHub streak" height="165"/>
 </div>
 
-
-
-</div>
