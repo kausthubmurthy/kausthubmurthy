@@ -5,19 +5,16 @@
 **`Community Developer at Google Developer Group, Bengaluru`**
 
 
-
-
-
 ---
 
 #### 🚀 About Me
 
 <span style="font-size: 0.5em;">
 
-> 🎓 Currently pursuing a **Bachelor’s in Computer Science Engineering** at **Presidency University, Bangalore**.  
-> 💻 **Community Developer** at **Google Developer Group (GDG) Bangalore**.  
-> 🦾 **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.  
-> 📄 Learn more about my experiences: [**Link**](https://tinyurl.com/kausthubmurthy)
+ - ##### 🎓 Currently pursuing a **Bachelor’s in Computer Science Engineering** at **Presidency University, Bangalore**.
+ - ##### 💻 **Community Developer** at **Google Developer Group (GDG) Bangalore**.
+ - ##### 🦾 **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.
+ - ##### 📄 Learn more about my experiences: [**Link**](https://tinyurl.com/kausthubmurthy)
 
 </span>
 
@@ -33,10 +30,9 @@
 
 #### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausthubmurthy&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kausthubmurthy&show_icons=true&theme=github_dark" alt="Kausthub's GitHub stats" height="165"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kausthubmurthy&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausthubmurthy&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
+</p>
+
 
