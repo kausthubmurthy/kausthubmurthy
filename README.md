@@ -11,10 +11,10 @@
 
 <span style="font-size: 0.5em;">
 
- - #### 🎓 Currently pursuing a **Bachelor’s in Computer Science Engineering** at **Presidency University, Bangalore**.
- - #### 💻 **Community Developer** at **Google Developer Group (GDG) Bangalore**.
- - #### 🦾 **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.
- - #### 📄 Learn more about my experiences: [**Link**](https://tinyurl.com/kausthubmurthy)
+ - ##### 🎓 Currently pursuing a **Bachelor’s in Computer Science Engineering** at **Presidency University, Bangalore**.
+ - ##### 💻 **Community Developer** at **Google Developer Group (GDG) Bangalore**.
+ - ##### 🦾 **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.
+ - ##### 📄 Learn more about my experiences: [**Link**](https://tinyurl.com/kausthubmurthy)
 
 </span>
 
