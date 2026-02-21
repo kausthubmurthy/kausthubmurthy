@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=kausthubmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="kausthubmurthy" />
 </h3>
 
-**`Community Developer at Google Developer Group, Bengaluru`**
+**`Computer Science Graduate`**
 
 
 ---
@@ -11,7 +11,7 @@
 
 <span style="font-size: 0.5em;">
 
- - #### 🎓 Currently pursuing a **Bachelor’s in Computer Science Engineering** at **Presidency University, Bangalore**.
+ - #### 🎓 Computer Science Graduate '26 from Presidency University, Bangalore
  - #### 💻 **Community Developer** at **Google Developer Group (GDG) Bangalore**.
  - #### 🦾 **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.
  - #### 📄 Learn more about my experiences: [**Link**](https://tinyurl.com/kausthubmurthy)
