@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=kausthubmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="kausthubmurthy" />
 </h3>
 
-**`Computer Science Graduate`**
+**`Computer Science Student`**
 
 
 ---
