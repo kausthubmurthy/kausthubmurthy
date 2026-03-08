@@ -14,7 +14,7 @@
  - #### 🎓 Undergraduate'26 from Presidency University, Bangalore
  - #### 💻 **Community Developer** at **Google Developer Group (GDG) Bangalore**.
  - #### 🦾 **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.
- - #### 📄 Learn more about my experiences: [**Link**](https://tinyurl.com/kausthubmurthy)
+ - #### 📄 Learn more about me: [**Link**](https://tinyurl.com/kausthubmurthy)
 
 </span>
 
