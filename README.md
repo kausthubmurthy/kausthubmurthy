@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=kausthubmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="kausthubmurthy" />
 </h3>
 
-**`Full-Stack Developer | Next.js React.js `** <br><br>
+**`Full-Stack Developer | Next.js React.js Node.js`** <br><br>
 **`📍 Bengaluru, India`**
 
 
