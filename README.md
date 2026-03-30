@@ -2,31 +2,31 @@
   <img src="https://komarev.com/ghpvc/?username=kausthubmurthy&label=Profile%20views&color=0e75b6&style=flat" alt="kausthubmurthy" />
 </h3>
 
-**`Computer Science Student`**
+**`Full-Stack Developer | Next.js React.js `** <br><br>
+**`📍 Bengaluru, India`**
 
 
 ---
 
 #### 🚀 About Me
 
-<span style="font-size: 0.5em;">
 
- - #### 🎓 Undergraduate'26 from Presidency University, Bangalore
- - #### 💻 **Community Developer** at **Google Developer Group (GDG) Bangalore**.
- - #### 🦾 **Student Member** at **Indian Institute of Technology Madras Research Park (IITMRP)**.
- - #### 📄 Learn more about me: [**Link**](https://tinyurl.com/kausthubmurthy)
 
-</span>
-
+ -  ##### 🎓 Graduated'26 from Presidency University, Bengaluru 
+ -  ##### 💻 Community Developer at Google Developer Group, Bangalore.
+ -  ##### 🦾 Student Member at IIT Madras Research Park (IITMRP).
+ -  ##### 📄 Learn more about me: [Link](https://tinyurl.com/kausthubmurthy)
 
 
 ---
 
 #### 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,opencv,java,spring,bash,linux,html,css,javascript,php,nodejs,express,react,postman,git,github,docker,kubernetes,mysql,postgresql,mongodb,aws,gcp,figma,raspberrypi,arduino&perline=10)]()
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,opencv,java,spring,bash,linux,html,css,javascript,php,nodejs,express,react,postman,git,github,docker,kubernetes,mysql,postgresql,mongodb,aws,gcp,figma,raspberrypi,arduino&perline=10" />
+</p>
 
-
+---
 
 #### 📊 GitHub Stats
 
