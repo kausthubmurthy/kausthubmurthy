@@ -12,10 +12,10 @@
 
 
 
- -  ##### 🎓 Graduated'26 from Presidency University, Bengaluru 
- -  ##### 💻 Community Developer at Google Developer Group, Bangalore.
- -  ##### 🦾 Student Member at IIT Madras Research Park (IITMRP).
- -  ##### 📄 Learn more about me: [Link](https://tinyurl.com/kausthubmurthy)
+ -  #### 🎓 Graduated'26 from Presidency University, Bengaluru 
+ -  #### 💻 Community Developer at Google Developer Group, Bangalore.
+ -  #### 🦾 Student Member at IIT Madras Research Park (IITMRP).
+ -  #### 📄 Learn more about me: [Link](https://tinyurl.com/kausthubmurthy)
 
 
 ---
